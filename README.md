@@ -1,1 +1,1 @@
-# Lomi CLI
+# lomi. CLI
